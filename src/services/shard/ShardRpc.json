@@ -1,0 +1,59 @@
+{
+    "zones": [
+      {
+        "zone_name": "cyprus-1",
+        "zone_index": "zone-0-0",
+        "rpc": "https://rpc.cyprus1.colosseum.quaiscan.io",
+        "explorer": "https://cyprus1.colosseum.quaiscan.io"
+      },
+      {
+        "zone_name": "cyprus-2",
+        "zone_index": "zone-0-1",
+        "rpc": "https://rpc.cyprus2.colosseum.quaiscan.io",
+        "explorer": "https://cyprus2.colosseum.quaiscan.io"
+      },
+      {
+        "zone_name": "cyprus-3",
+        "zone_index": "zone-0-2",
+        "rpc": "https://rpc.cyprus3.colosseum.quaiscan.io",
+        "explorer": "https://cyprus3.colosseum.quaiscan.io"
+      },
+      {
+        "zone_name": "paxos-1",
+        "zone_index": "zone-1-0",
+        "rpc": "https://rpc.paxos1.colosseum.quaiscan.io",
+        "explorer": "https://paxos1.colosseum.quaiscan.io"
+      },
+      {
+        "zone_name": "paxos-2",
+        "zone_index": "zone-1-1",
+        "rpc": "https://rpc.paxos2.colosseum.quaiscan.io",
+        "explorer": "https://paxos2.colosseum.quaiscan.io"
+      },
+      {
+        "zone_name": "paxos-3",
+        "zone_index": "zone-1-2",
+        "rpc": "https://rpc.paxos3.colosseum.quaiscan.io",
+        "explorer": "https://paxos3.colosseum.quaiscan.io"
+      },
+      {
+        "zone_name": "hydra-1",
+        "zone_index": "zone-2-0",
+        "rpc": "https://rpc.hydra1.colosseum.quaiscan.io",
+        "explorer": "https://hydra1.colosseum.quaiscan.io"
+      },
+      {
+        "zone_name": "hydra-2",
+        "zone_index": "zone-2-1",
+        "rpc": "https://rpc.hydra2.colosseum.quaiscan.io",
+        "explorer": "https://hydra2.colosseum.quaiscan.io"
+      },
+      {
+        "zone_name": "hydra-3",
+        "zone_index": "zone-2-2",
+        "rpc": "https://rpc.hydra3.colosseum.quaiscan.io",
+        "explorer": "https://hydra3.colosseum.quaiscan.io"
+      }
+    ]
+  }
+  
